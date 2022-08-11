@@ -1,2 +1,2 @@
-# Use this as a template for your Node.js projects in repl.it
+# Our first Node.js project, featuring Node.js routes
 
